@@ -5,3 +5,6 @@
 5. We will give an example of a template in the specified database populated with data from Spotify
 6. We will ask for confirmation
 7. We will write to Notion
+
+
+Begin with command line interface!
