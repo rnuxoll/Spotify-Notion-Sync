@@ -1,0 +1,7 @@
+1. We will get Spotify authentication from the user
+2. User will get which library or playlist of theirs that they want to pull from
+3. We will get Notion authentication from the user
+4. User will specify which Notion database they want to pull too (we can start by hardcoding my personal Media format, then generalize)
+5. We will give an example of a template in the specified database populated with data from Spotify
+6. We will ask for confirmation
+7. We will write to Notion
